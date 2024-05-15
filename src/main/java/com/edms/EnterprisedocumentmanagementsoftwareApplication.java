@@ -1,13 +1,13 @@
-package com.edms.documentfile;
+package com.edms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EdmsDocumentFileApplication {
+public class EnterprisedocumentmanagementsoftwareApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EdmsDocumentFileApplication.class, args);
+		SpringApplication.run(EnterprisedocumentmanagementsoftwareApplication.class, args);
 	}
 
 }
